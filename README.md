@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá 👋, eu sou Bruno Silva</h1>
+<h1 align="center">Hi 👋, I'm Bruno Silva</h1>
 <h3 align="center">I'm back-end developer from Brazil.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=margera&label=Profile%20views&color=0e75b6&style=flat" alt="bruno-silva" /> </p>
 
